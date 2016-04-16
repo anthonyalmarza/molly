@@ -4,7 +4,7 @@ import molly
 
 setup(
     author="Anthony",
-    name="molly",
+    name="django-molly",
     version=molly.__version__,
     packages=find_packages(exclude=["test*", ]),
     url="https://github.com/anthonyalmarza/molly",
