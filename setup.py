@@ -18,9 +18,7 @@ setup(
         'Programming Language :: Python',
     ],
     keywords=['molly', ],
-    install_requires=[
-        'six', 'django',
-    ],
+    install_requires=['six', 'django'],
     extras_require={'dev': ['ipdb', 'mock', 'twisted', 'heroin']},
     include_package_data=True
 )
