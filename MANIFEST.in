@@ -1,2 +1,2 @@
 include README.md
-exclude molly/tests.py
+exclude tests.py
